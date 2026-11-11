@@ -1,0 +1,6 @@
+selenium>=4.10
+pandas>=2.0
+beautifulsoup4>=4.12
+requests>=2.31
+matplotlib>=3.7
+pytest>=7.4

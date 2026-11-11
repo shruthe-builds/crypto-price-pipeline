@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+# scraped data and generated charts stay local
+data/*.csv
+*.png
+!docs/*.png
